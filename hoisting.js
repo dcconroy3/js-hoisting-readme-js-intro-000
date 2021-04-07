@@ -5,7 +5,7 @@ function callMe() {
 
 
 function crazy() {
-  thisIsCrazy();
+  thisIsCrazy() 
   var thisIsCrazy = function (){
     console.log("hey!!!")
   }
